@@ -1,3 +1,3 @@
-public with sharing class discount1{
+public with sharing class discount{
     
 }
