@@ -1,4 +1,5 @@
 /*test jenkins*/
+//mythird change
 public with sharing class discount{
 	public static void applyDiscount(Book__c[] books) {
    for (Book__c b :books){
