@@ -1,5 +1,5 @@
 //test jenkins
-//mythird change
+//mythird change 12
 //Hi, this is a really cool test comment
 public with sharing class discount{
 	public static void applyDiscount(Book__c[] books) {
