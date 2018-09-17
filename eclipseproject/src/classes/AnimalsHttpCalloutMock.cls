@@ -1,3 +1,4 @@
+//cool test class//
 @isTest
 global class AnimalsHttpCalloutMock implements HttpCalloutMock {
     // Implement this interface method
