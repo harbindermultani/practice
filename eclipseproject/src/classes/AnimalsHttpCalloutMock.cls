@@ -1,4 +1,4 @@
-//cool test class//
+//cool test class by arcos//
 @isTest
 global class AnimalsHttpCalloutMock implements HttpCalloutMock {
     // Implement this interface method
